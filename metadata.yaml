@@ -1,0 +1,37 @@
+_repo: Kaarina-Maununtytar-b-Torimyymalasta-valtaistuimelle_75042
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Witt, Bertha
+    gutenberg_agent_id: '57791'
+    url: http://www.gutenberg.org/2009/agents/57791
+description: ''
+gutenberg_issued: '2025-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75042'
+language: fi
+pgterms:marc905: 20241114035355witt
+pgterms:marc906: '1929'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bMinerva, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaarina Maununtytär : $b Torimyymälästä valtaistuimelle'
+url: http://www.gutenberg.org/ebooks/75042
