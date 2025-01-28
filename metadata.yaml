@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Witt, Bertha
     gutenberg_agent_id: '57791'
     url: http://www.gutenberg.org/2009/agents/57791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75042#Kaarina-Maununtytar-b-Torimyymalasta-valtaistuimelle
 gutenberg_issued: '2025-01-05'
 gutenberg_type: Text
 identifiers:
